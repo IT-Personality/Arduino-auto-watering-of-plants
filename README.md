@@ -1,2 +1,3 @@
-# Arduino-auto-watering-of-plants
-Auto-watering on Arduino
+# Arduino: auto watering of plants
+For the project you will need: encoder, arduino, relay, LCD display
+Libraries used: Wire, LiquidCrystal_I2C, Encoder
